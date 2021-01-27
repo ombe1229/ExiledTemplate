@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExiledTemplate", "ExiledTem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BroadcastPlugin", "BroadcastPlugin\BroadcastPlugin.csproj", "{6478844D-2A7A-493F-A3E9-178FAD74001C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScpHealingPlugin", "ScpHealingPlugin\ScpHealingPlugin.csproj", "{79B900FE-FE6A-411F-A54D-28253AA34124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6478844D-2A7A-493F-A3E9-178FAD74001C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6478844D-2A7A-493F-A3E9-178FAD74001C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6478844D-2A7A-493F-A3E9-178FAD74001C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B900FE-FE6A-411F-A54D-28253AA34124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B900FE-FE6A-411F-A54D-28253AA34124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B900FE-FE6A-411F-A54D-28253AA34124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B900FE-FE6A-411F-A54D-28253AA34124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

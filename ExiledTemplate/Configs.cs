@@ -1,6 +1,6 @@
 ﻿using Exiled.API.Interfaces;
 
-namespace MyPlugin
+namespace ExiledTemplate
 {
     public class Configs : IConfig
     {

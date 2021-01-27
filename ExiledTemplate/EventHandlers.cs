@@ -2,7 +2,7 @@
 using Exiled.Events.EventArgs;
 using Respawning;
 
-namespace MyPlugin
+namespace ExiledTemplate
 {
     public class EventHandlers
     {

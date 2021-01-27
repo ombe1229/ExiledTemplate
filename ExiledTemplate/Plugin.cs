@@ -5,7 +5,7 @@ using WarheadEvents = Exiled.Events.Handlers.Warhead;
 using Features = Exiled.API.Features;
 using Log = Exiled.API.Features.Log;
 
-namespace MyPlugin
+namespace ExiledTemplate
 {
     public class myPlugin : Features.Plugin<Configs>
     {

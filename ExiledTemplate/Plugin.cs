@@ -7,7 +7,7 @@ using Log = Exiled.API.Features.Log;
 
 namespace ExiledTemplate
 {
-    public class myPlugin : Features.Plugin<Configs>
+    public class exiledTemplate : Features.Plugin<Configs>
     {
         public static bool IsStarted { get; set; }
         public EventHandlers EventHandlers { get; private set; }

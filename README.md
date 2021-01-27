@@ -9,3 +9,4 @@ Templates and examples, etc. of the SCP:Secret Laboratory plugin framework, [EXI
 ## Examples
 
 - [BroadcastPlugin](https://github.com/ombe1229/ExiledTemplate/tree/master/BroadcastPlugin)
+- [ScpHealingPlugin](https://github.com/ombe1229/ExiledTemplate/tree/master/ScpHealingPlugin)
